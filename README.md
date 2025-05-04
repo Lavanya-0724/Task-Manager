@@ -20,7 +20,6 @@ A clean, modern, and responsive to-do list web application built with HTML, CSS,
 - CSS3
 - JavaScript (ES6+)
 - Font Awesome Icons
-- Local Storage API
 
 ## Setup and Installation
 
@@ -47,15 +46,5 @@ A clean, modern, and responsive to-do list web application built with HTML, CSS,
    - Active: Shows only incomplete tasks
    - Completed: Shows only completed tasks
 
-## Browser Compatibility
 
-The application works on all modern browsers including:
 
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Edge
-- Safari
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
